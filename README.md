@@ -15,8 +15,8 @@ Diferente de uma simples saída no terminal, este projeto gera uma página HTML 
 - Os links na página são clicáveis e levam diretamente para a notícia no site do G1.
   
 - Abre automaticamente a página gerada no navegador para visualização imediata.
+- obs: Caso não abra, selecione o arquivo HTML e abra com o navegador de sua preferência.
 
-- Caso não abra, selecione o arquivo html abra com o navegador de sua escolha.
 
 # Tecnologias Utilizadas
 - Python 3
@@ -34,9 +34,11 @@ Siga os passos abaixo para executar o projeto localmente.
   
 -  git clone https://github.com/Jefferson-Santana-Santos/extrator-de-noticias-python.git
   
--  Navegue até o diretório do projeto:
+-  Navegue até o diretório onde você colocou o projeto:
+
+-  use o comando para executar no prompt :
   
--  cd SEU-REPOSITORIO
+-  cd SEU-REPOSITORIO (onde salvou o código do projeto. ex:  cd \download)
   
 -  Instale as dependências necessárias:
   
@@ -52,5 +54,6 @@ Siga os passos abaixo para executar o projeto localmente.
 Ao executar o script, uma nova aba será aberta no seu navegador, exibindo uma página parecida com esta:
 
 <img width="961" height="242" alt="image" src="https://github.com/user-attachments/assets/cb37a8a8-42fd-4bb1-9851-ea308674c08b" />
+
 
 A página terá um design moderno, com as manchetes listadas e prontas para serem clicadas.
